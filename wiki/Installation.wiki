@@ -2,7 +2,6 @@ requirements:
 python 2.6 (latest release as of today is 2.6.4):
 http://www.python.org/ftp/python/2.6.4/python-2.6.4.msi
 
-installation:
 You can install using the provided installer or through setup.py.
 
 win32 installer:

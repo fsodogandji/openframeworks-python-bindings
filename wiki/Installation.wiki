@@ -21,7 +21,7 @@ run "python setup.py install"
 it should install the package into your system. you can now access the package.
 
 *running the example*:
-http://openframeworks-python-bindings.g ... xample.zip
+http://openframeworks-python-bindings.googlecode.com/files/example.zip
 
 extract the file somewhere
 open a command prompt and navigate to the folder that contains the file

@@ -25,6 +25,7 @@ http://openframeworks-python-bindings.googlecode.com/files/example.zip
 
 extract the file somewhere
 open a command prompt and navigate to the folder that contains the file
+
 run "python animation.py"
 
 Everything should run fine.

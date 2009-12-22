@@ -31,4 +31,4 @@ run "python animation.py"
 Everything should run fine.
 
 You can report any bugs here:
-http://code.google.com/p/openframeworks ... ssues/list
+http://code.google.com/p/openframeworks-python-bindings/issues/list

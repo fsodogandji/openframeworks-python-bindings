@@ -1,17 +1,17 @@
-requirements:
+*requirements*:
 python 2.6 (latest release as of today is 2.6.4):
 http://www.python.org/ftp/python/2.6.4/python-2.6.4.msi
 
 You can install using the provided installer or through setup.py.
 
-win32 installer:
+*win32 installer*:
 [http://code.google.com/p/openframeworks-python-bindings/downloads/list]
 
 file: ofpython-version.win32.exe
 
 Just download, install. Pretty straight forward install. After installation, you can download and run the example below.
 
-setup.py installer:
+*setup.py installer*:
 [http://code.google.com/p/openframeworks-python-bindings/downloads/list]
 
 file: ofpython-version.zip
@@ -20,7 +20,7 @@ open a command prompt and navigate to "ofpython-006.1"
 run "python setup.py install"
 it should install the package into your system. you can now access the package.
 
-running the example:
+*running the example*:
 http://openframeworks-python-bindings.g ... xample.zip
 
 extract the file somewhere

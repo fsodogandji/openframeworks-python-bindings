@@ -16,7 +16,7 @@ Just download, install. Pretty straight forward install. After installation, you
 
 file: ofpython-version.zip
 
-open a command prompt and navigate to "ofpython-006.1"
+open a command prompt and navigate to "ofpython-version"
 run "python setup.py install"
 it should install the package into your system. you can now access the package.
 

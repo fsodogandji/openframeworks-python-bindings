@@ -1,0 +1,1 @@
+Bindings for the openframeworks platform. See http://www.openframeworks.cc/

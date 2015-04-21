@@ -1,0 +1,34 @@
+**requirements**:
+python 2.6 (latest release as of today is 2.6.4):
+http://www.python.org/ftp/python/2.6.4/python-2.6.4.msi
+
+You can install using the provided installer or through setup.py.
+
+**win32 installer**:
+http://code.google.com/p/openframeworks-python-bindings/downloads/list
+
+file: ofpython-version.win32.exe
+
+Just download, install. Pretty straight forward install. After installation, you can download and run the example below.
+
+**setup.py installer**:
+http://code.google.com/p/openframeworks-python-bindings/downloads/list
+
+file: ofpython-version.zip
+
+open a command prompt and navigate to "ofpython-version"
+run "python setup.py install"
+it should install the package into your system. you can now access the package.
+
+**running the example**:
+http://openframeworks-python-bindings.googlecode.com/files/example.zip
+
+extract the file somewhere
+open a command prompt and navigate to the folder that contains the file
+
+run "python animation.py"
+
+Everything should run fine.
+
+You can report any bugs here:
+http://code.google.com/p/openframeworks-python-bindings/issues/list
